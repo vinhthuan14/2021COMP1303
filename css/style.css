@@ -1,0 +1,23 @@
+* {
+    margin: 0px auto;
+}
+.mytextbox {
+    color: #99FF33;
+    background-color: #0c7eb8;
+    border: 1px solid #996633;
+    width: 300px;
+}
+table {
+    border: 5px groove #993366;
+    background-color: #FFCCCC;
+    color: #003399;
+    border-radius: 5px;
+}
+table td {
+    border: 1px solid #CC9999;
+    border-radius: 5px;
+    padding: 7px 10px;
+}
+.form1 {
+    margin-top: 50px;
+}
